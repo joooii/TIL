@@ -14,7 +14,9 @@ Vue 공식 사이트 한글 번역(문법 등 참고) :
 
 ### App.vue(=메인 페이지)에서 코드 짜면 됨!
 
-#### 한 페이지 안에 링크 주석 간단하게 하는 법?
+#### 한 페이지 안에 링크 주석 간단하게 하는 법?(router 라우터)
+==> 초기 설정 때 추가해야 함!!!!!!!!!!
+
 `<router-link to="/">Home</router-link> 
 <router-link to="/about">About</router-link>
 싱글페이지 애플리케이션 머 어쩌고 ~
