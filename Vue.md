@@ -1,4 +1,6 @@
 # Vue.js 
+Vue 공식 사이트 한글 번역(문법 등 참고) :
+<a style="font-size:20px;">https://kr.vuejs.org/v2/guide/#Vue-js%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94</a>
 ---
 ## 사용 이유 : Web-app만들 때 페이지가 자연스럽게 넘어가는 상황을 만들기 위해
 
