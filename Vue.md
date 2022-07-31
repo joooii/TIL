@@ -85,3 +85,12 @@ Vue 공식 사이트 한글 번역(문법 등 참고) :
 ---
 ### import / export 문법 쓰는 법
 강의 3:26~: <https://www.youtube.com/watch?v=38PWm8TgaV0&t=22s>
+---
+### 부트스트랩 사용하려면 폴더 내에 `npm install --save bootstrap bootstrap-vue` 설치
+```
+* main.js에 import문 바로 밑에 작성
+import BootstrapVue from 'bootstrap-vue'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+
+Vue.use(BootstrapVue)
